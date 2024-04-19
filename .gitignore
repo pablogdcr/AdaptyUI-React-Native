@@ -73,8 +73,5 @@ android/keystores/debug.keystore
 # Turborepo
 .turbo/
 
-dist/
-
-
 # Local builds
 .tgz
