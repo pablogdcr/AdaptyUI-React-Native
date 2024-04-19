@@ -36,7 +36,7 @@
     "!**/__mocks__",
     "!**/.*"
   ],
-  "main": "dist/index.js",
+  "main": "src/dist-temp/index.js",
   "packageManager": "yarn@1.22.19",
   "scripts": {
     "build": "tsc",
